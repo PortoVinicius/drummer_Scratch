@@ -4,8 +4,7 @@
 
 **Descrição do Projeto:**
 
-O **Drummer_Scratch** é um jogo simples desenvolvido no Scratch onde o jogador precisa acertar uma bateria. A cada acerto, um ponto é adicionado ao contador. Quando o contador chega a 10 pontos, uma mensagem de fim de jogo aparece em uma tela pop-up, e o jogo é reiniciado.
-
+O **Drummer_Scratch** é um jogo simples desenvolvido no Scratch onde o jogador precisa acertar uma bateria. A cada acerto, um ponto é adicionado ao contador.
 ---
 
 ## Como Jogar:
