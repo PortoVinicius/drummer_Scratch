@@ -55,5 +55,3 @@ O projeto é composto por três principais **scripts**:
 3. Inicie o jogo clicando na bandeira verde.
 
 ---
-
-Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
